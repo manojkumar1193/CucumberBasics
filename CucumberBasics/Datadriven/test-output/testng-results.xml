@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5855" started-at="2019-06-24T23:37:09Z" finished-at="2019-06-24T23:37:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5855" started-at="2019-06-24T23:37:09Z" finished-at="2019-06-24T23:37:15Z">
+      <class name="datadriven.inheritedclass">
+        <test-method status="PASS" signature="userid()[pri:0, instance:datadriven.inheritedclass@2a2d45ba]" name="userid" duration-ms="3301" started-at="2019-06-24T23:37:09Z" finished-at="2019-06-24T23:37:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userid -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:datadriven.inheritedclass@2a2d45ba]" name="Login" duration-ms="2523" started-at="2019-06-24T23:37:12Z" finished-at="2019-06-24T23:37:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+      </class> <!-- datadriven.inheritedclass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
